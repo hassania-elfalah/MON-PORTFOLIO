@@ -899,7 +899,7 @@ button {
   }
 }
 
-/* @media screen and (max-width: 576px) {
+ @media screen and (max-width: 576px) {
   .hero__buttons {
     flex-direction: column;
     gap: 1.5rem;
@@ -936,7 +936,7 @@ button {
   .experience__date {
     align-self: flex-start;
   }
-} */
+} 
 /* =============== ANIMATIONS =============== */
 @keyframes float {
   0%, 100% {
@@ -1456,6 +1456,7 @@ button {
   animation: float 6s ease-in-out infinite;
 
 }
+
 
 
 
